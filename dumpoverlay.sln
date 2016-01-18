@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dumpoverlay", "dumpoverlay\dumpoverlay.vcxproj", "{21754952-F927-4073-98FD-73263DB562AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21754952-F927-4073-98FD-73263DB562AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21754952-F927-4073-98FD-73263DB562AA}.Debug|Win32.Build.0 = Debug|Win32
+		{21754952-F927-4073-98FD-73263DB562AA}.Release|Win32.ActiveCfg = Release|Win32
+		{21754952-F927-4073-98FD-73263DB562AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
